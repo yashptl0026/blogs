@@ -60,26 +60,25 @@ export async function PUT(
 
     const newSlug = slug && slug.trim() ? slug.trim() : id;
     
+    const { content: contentToKeep, ...restOfPost } = existingPost;
+    
     // Frontmatter preservation and update
     const frontmatterObj = {
-      ...existingPost,
-      titleEn: titleEn || existingPost.titleEn,
+      ...restOfPost,
+      titleEn: titleEn || restOfPost.titleEn,
       slug: newSlug,
-      excerptEn: excerptEn || existingPost.excerptEn,
-      coverImage: coverImage || existingPost.coverImage,
-      bannerImage: bannerImage !== undefined ? bannerImage : existingPost.bannerImage,
-      readingTime: readingTime || existingPost.readingTime,
-      published: published !== undefined ? (published ? true : false) : existingPost.published,
-      categories: mappedCategories.length > 0 ? mappedCategories : existingPost.categories,
-      stateId: stateId !== undefined ? stateId : existingPost.stateId,
-      districtId: districtId !== undefined ? districtId : existingPost.districtId,
-      talukaId: talukaId !== undefined ? talukaId : existingPost.talukaId,
-      villageId: villageId !== undefined ? villageId : existingPost.villageId,
+      excerptEn: excerptEn || restOfPost.excerptEn,
+      coverImage: coverImage || restOfPost.coverImage,
+      bannerImage: bannerImage !== undefined ? bannerImage : restOfPost.bannerImage,
+      readingTime: readingTime || restOfPost.readingTime,
+      published: published !== undefined ? (published ? true : false) : restOfPost.published,
+      categories: mappedCategories.length > 0 ? mappedCategories : restOfPost.categories,
+      stateId: stateId !== undefined ? stateId : restOfPost.stateId,
+      districtId: districtId !== undefined ? districtId : restOfPost.districtId,
+      talukaId: talukaId !== undefined ? talukaId : restOfPost.talukaId,
+      villageId: villageId !== undefined ? villageId : restOfPost.villageId,
       updatedAt: new Date().toISOString()
     };
-    
-    // Delete content from frontmatter object so it doesn't get serialized twice
-    delete frontmatterObj.content;
 
     const fileContent = `---
 ${JSON.stringify(frontmatterObj, null, 2)}
@@ -125,17 +124,16 @@ export async function PATCH(
       return NextResponse.json({ error: "Post not found" }, { status: 404 });
     }
 
+    const { content: contentToKeep, ...restOfPost } = existingPost;
+
     const frontmatterObj = {
-      ...existingPost,
-      published: body.published !== undefined ? !!body.published : existingPost.published,
-      isFeatured: body.isFeatured !== undefined ? !!body.isFeatured : existingPost.isFeatured,
-      isTrending: body.isTrending !== undefined ? !!body.isTrending : existingPost.isTrending,
-      isEditorPick: body.isEditorPick !== undefined ? !!body.isEditorPick : existingPost.isEditorPick,
+      ...restOfPost,
+      published: body.published !== undefined ? !!body.published : restOfPost.published,
+      isFeatured: body.isFeatured !== undefined ? !!body.isFeatured : restOfPost.isFeatured,
+      isTrending: body.isTrending !== undefined ? !!body.isTrending : restOfPost.isTrending,
+      isEditorPick: body.isEditorPick !== undefined ? !!body.isEditorPick : restOfPost.isEditorPick,
       updatedAt: new Date().toISOString()
     };
-    
-    const contentToKeep = frontmatterObj.content;
-    delete frontmatterObj.content;
 
     const fileContent = `---
 ${JSON.stringify(frontmatterObj, null, 2)}

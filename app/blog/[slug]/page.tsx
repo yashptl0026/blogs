@@ -130,14 +130,11 @@ export default async function ArticlePage({ params }: PageProps) {
     "publisher": { "@type": "Organization", "name": "Aesthete" },
   };
 
-  let initialLiked = false;
-  let initialSaved = false;
-
   return (
     <main className="min-h-screen flex flex-col justify-between bg-editorial-bg pt-[72px] transition-colors duration-300">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Header />
-      <ArticleDetailClient initialPost={post} initialLiked={initialLiked} initialSaved={initialSaved} />
+      <ArticleDetailClient initialPost={post} />
       <footer className="w-full border-t border-editorial-border py-8 mt-12 bg-editorial-bg relative z-10 transition-colors duration-300">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs tracking-wider text-editorial-muted font-sans">
           <div className="flex items-center gap-2">

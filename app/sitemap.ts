@@ -4,7 +4,7 @@ import { getAllPosts, getAllCategories, getAllTags } from '@/lib/mdx';
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://www.aesthete.com';
 
-  const posts = getAllPosts().filter(p => p?.published);
+  const posts = getAllPosts().filter((p): p is NonNullable<typeof p> => p !== null && p.published);
   const categories = getAllCategories();
   const tags = getAllTags();
 
@@ -15,14 +15,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  const categoryUrls = categories.map((cat) => ({
+  const categoryUrls = categories.map((cat: any) => ({
     url: `${baseUrl}/categories/${cat.slug}`,
     lastModified: new Date(),
     changeFrequency: 'daily' as const,
     priority: 0.7,
   }));
 
-  const tagUrls = tags.map((tag) => ({
+  const tagUrls = tags.map((tag: any) => ({
     url: `${baseUrl}/tags/${tag.slug}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,

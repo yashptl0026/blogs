@@ -44,14 +44,13 @@ export async function POST(
       }
     };
 
+    const { content: contentToKeep, ...restOfPost } = existingPost;
+
     const frontmatterObj = {
-      ...existingPost,
-      comments: [...(existingPost.comments || []), newComment],
+      ...restOfPost,
+      comments: [...(restOfPost.comments || []), newComment],
       updatedAt: new Date().toISOString()
     };
-    
-    const contentToKeep = frontmatterObj.content;
-    delete frontmatterObj.content;
 
     const fileContent = `---
 ${JSON.stringify(frontmatterObj, null, 2)}
