@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-color: #fefcfd;
+    --text-color: #111825;
+    --card-bg: #ffffff;
+    --border-color: #e2e8f0;
+    --muted-color: #64748b;
+  }
+
+  .dark {
+    --bg-color: #0a0a0a;
+    --text-color: #fafafa;
+    --card-bg: #171717;
+    --border-color: #262626;
+    --muted-color: #a3a3a3;
+  }
+
+  body {
+    @apply bg-editorial-bg text-editorial-text font-sans antialiased transition-colors duration-300;
+    scroll-behavior: smooth;
+  }
+
+  /* Custom styling for scrollbar to fit editorial look */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #FFFFFF;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #000000;
+    border-radius: 0px;
+  }
+}
+
+/* Removed Accessibility focus ring styling globally as per user request */
+*:focus-visible {
+  @apply outline-none;
+}
+
+b,
+strong {
+  font-weight: 800;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}

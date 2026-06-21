@@ -1,0 +1,87 @@
+[
+  {
+    "id": "02268a68-8229-43c5-9323-ed49427b0266",
+    "name": "Hill Station",
+    "slug": "hill-station"
+  },
+  {
+    "id": "05309d4a-b997-4bbb-823f-56f5a10d9175",
+    "name": "Trekking",
+    "slug": "trekking"
+  },
+  {
+    "id": "1805b8b4-de69-4380-aa59-855b4fb37be0",
+    "name": "Hidden Gem",
+    "slug": "hidden-gem"
+  },
+  {
+    "id": "190785c8-a967-4169-856d-b54f5041eb0f",
+    "name": "Religious Tourism",
+    "slug": "religious-tourism"
+  },
+  {
+    "id": "2e131226-e1ff-4b61-b016-f31e62a328db",
+    "name": "History of India",
+    "slug": "history-of-india"
+  },
+  {
+    "id": "6a91818f-0207-47ed-8902-a95c7e2413b5",
+    "name": "Photography",
+    "slug": "photography"
+  },
+  {
+    "id": "aa06a374-d47e-4a56-8486-90fb42d7e850",
+    "name": "Dang Tourism",
+    "slug": "dang-tourism"
+  },
+  {
+    "id": "aac2649f-fb17-45e0-b502-5aca43512aff",
+    "name": "Offbeat Travel",
+    "slug": "offbeat-travel"
+  },
+  {
+    "id": "aba9e384-01e1-49ff-8679-a995b744f37e",
+    "name": "Monsoon Destinations",
+    "slug": "monsoon-destinations"
+  },
+  {
+    "id": "b787c150-7bd9-4b8d-89ac-1eefe4d2ab4f",
+    "name": "Caves",
+    "slug": "caves"
+  },
+  {
+    "id": "bf9a34ae-2c41-463b-90da-a7b8a8db5982",
+    "name": "Spiritual",
+    "slug": "spiritual"
+  },
+  {
+    "id": "cdbfce52-3799-47f7-83b9-507df8761d8e",
+    "name": "Weekend Getaway",
+    "slug": "weekend-getaway"
+  },
+  {
+    "id": "d1d164c5-5faf-4094-9f50-f429ea63d07c",
+    "name": "Ramayana Trail",
+    "slug": "ramayana-trail"
+  },
+  {
+    "id": "e119defb-5139-4f14-9004-5c14633263d3",
+    "name": "Waterfall",
+    "slug": "waterfall"
+  },
+  {
+    "id": "eb643bb1-2ba7-407d-8aae-4d0c23cf3f06",
+    "name": "Lakes",
+    "slug": "lakes"
+  },
+  {
+    "id": "f0ca404b-31d1-4f69-b3cc-71f25d9ee3f7",
+    "name": "Mythology",
+    "slug": "mythology"
+  },
+  {
+    "id": "f148351c-c0e2-4d84-9211-623bdcbd24da",
+    "name": "Eco Tourism",
+    "slug": "eco-tourism"
+  }
+]

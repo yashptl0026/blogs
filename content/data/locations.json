@@ -1,0 +1,74 @@
+[
+  {
+    "id": "40ca2bcf-1888-425c-8476-6adcdc9d803f",
+    "nameEn": "Gujarat",
+    "nameHi": null,
+    "nameGu": null,
+    "lat": null,
+    "lng": null,
+    "districts": [
+      {
+        "id": "b8c9e0b1-226c-4ce5-b343-bed7b511d462",
+        "nameEn": "Gandhinagar",
+        "nameHi": null,
+        "nameGu": null,
+        "lat": null,
+        "lng": null,
+        "stateId": "40ca2bcf-1888-425c-8476-6adcdc9d803f",
+        "talukas": [
+          {
+            "id": "14b28b8a-ef96-4f62-92d8-a146a4a822d2",
+            "nameEn": "Gandhinagar",
+            "nameHi": null,
+            "nameGu": null,
+            "lat": null,
+            "lng": null,
+            "districtId": "b8c9e0b1-226c-4ce5-b343-bed7b511d462",
+            "villages": [
+              {
+                "id": "ef5afa3c-6d02-4c39-b919-d8d5d1ff8e15",
+                "nameEn": "Adalaj",
+                "nameHi": null,
+                "nameGu": null,
+                "lat": null,
+                "lng": null,
+                "talukaId": "14b28b8a-ef96-4f62-92d8-a146a4a822d2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b710bcf4-271b-48a8-99db-20677d33cdc8",
+        "nameEn": "Navsari",
+        "nameHi": null,
+        "nameGu": null,
+        "lat": null,
+        "lng": null,
+        "stateId": "40ca2bcf-1888-425c-8476-6adcdc9d803f",
+        "talukas": [
+          {
+            "id": "5f1a1d88-eae5-4bdf-83eb-9c5c8a99ed54",
+            "nameEn": "Vansda",
+            "nameHi": null,
+            "nameGu": null,
+            "lat": null,
+            "lng": null,
+            "districtId": "b710bcf4-271b-48a8-99db-20677d33cdc8",
+            "villages": [
+              {
+                "id": "2b718f8f-bb63-4eb3-8bd3-c8f2962257e4",
+                "nameEn": "Vangan",
+                "nameHi": null,
+                "nameGu": null,
+                "lat": null,
+                "lng": null,
+                "talukaId": "5f1a1d88-eae5-4bdf-83eb-9c5c8a99ed54"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

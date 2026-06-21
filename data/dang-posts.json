@@ -1,0 +1,292 @@
+[
+  {
+    "Title": "Saputara: The Ultimate Travel Guide to Gujarat's Misty Hill Station",
+    "Slug": "saputara-hill-station-guide",
+    "Categories": [
+      "Travel",
+      "Winter Destinations",
+      "Summer Destinations",
+      "Monsoon Destinations",
+      "Attractions"
+    ],
+    "Tags": [
+      "Hill Station",
+      "Weekend Getaway",
+      "Lakes",
+      "Dang Tourism",
+      "Eco Tourism"
+    ],
+    "LocationHierarchy": {
+      "State": "Gujarat",
+      "District": "Dang",
+      "Taluka": "Ahva",
+      "Village": "Saputara"
+    },
+    "GeospatialData": {
+      "Latitude": 20.7587,
+      "Longitude": 73.7486
+    },
+    "Author": {
+      "Name": "Admin",
+      "Image": "/assets/authors/yash-patel.jpg"
+    },
+    "MetaData": {
+      "PublishDate": "2026-06-09T10:00:00Z",
+      "ReadTime": "6 min read",
+      "LikesCount": 245,
+      "SavesCount": 112
+    },
+    "MapDirectionUrl": "https://www.google.com/maps/dir/?api=1&destination=20.7587,73.7486",
+    "Excerpt": "Perched gracefully at an altitude of 1,000 meters in the Sahyadri range, Saputara stands proud as Gujarat’s only hill station. Discover a world of rolling hills, dense forests, misty valleys, and rich tribal culture in this curated weekend escape.",
+    "SEOMetaDescription": "Plan your perfect trip to Saputara Hill Station in Dang, Gujarat. Discover top attractions, best time to visit, travel routes, and expert travel tips.",
+    "MainContent": "<h2>The Enchanting Escape to Saputara</h2>\n\n<p>Perched high in the undulating Sahyadri mountain range, <strong>Saputara</strong> is a serene paradise and notably the only hill station in the state of Gujarat. Emerging out of the dense woods of the Dang forest region, this picturesque retreat sits at an elevation of roughly 1,000 meters. Saputara offers a refreshing break from urban chaos, combining pristine nature, adventure sports, and ancient heritage into one stunning ecosystem.</p>\n\n<h3>A Destination for All Seasons: Best Time to Visit</h3>\n\n<p>Saputara possesses a unique charm that shifts beautifully across the seasons, making it a year-round destination:</p>\n\n<ul>\n  <li><strong>The Monsoon (July to October):</strong> This is arguably the most magical time to visit. The entire plateau gets wrapped in a thick blanket of low-flying clouds and mist.</li>\n  <li><strong>The Winter (November to February):</strong> The temperature drops comfortably, hovering between 10°C and 25°C. It is perfect for trekking and exploring.</li>\n</ul>\n\n<h3>Top Experiences: Must-Visit Places in Saputara</h3>\n\n<ol>\n  <li><strong>Saputara Lake & Boating:</strong> Located right at the heart of the town, this tranquil water body is surrounded by manicured parks.</li>\n  <li><strong>The Pushpak Ropeway:</strong> For a bird's-eye view of the entire valley, take the cable car ride to Sunset Point.</li>\n</ol>",
+    "NearbyPlaces": [
+      {
+        "Name": "Gira Waterfall",
+        "Slug": "gira-waterfall-dang-gujarat",
+        "Category": "Nature & Attractions",
+        "DistanceKm": 52.5,
+        "Latitude": 20.7424,
+        "Longitude": 73.4901
+      },
+      {
+        "Name": "Shabari Dham",
+        "Slug": "shabari-dham-history-dang",
+        "Category": "Historical Places",
+        "DistanceKm": 34.8,
+        "Latitude": 20.9161,
+        "Longitude": 73.7431
+      }
+    ]
+  },
+  {
+    "Title": "Gira Waterfall: The Roaring Pride of Dang's Monsoon Tourism",
+    "Slug": "gira-waterfall-dang-gujarat",
+    "Categories": [
+      "Travel",
+      "Nature & Attractions",
+      "Monsoon Destinations"
+    ],
+    "Tags": [
+      "Waterfall",
+      "Dang Tourism",
+      "Eco Tourism",
+      "Photography"
+    ],
+    "LocationHierarchy": {
+      "State": "Gujarat",
+      "District": "Dang",
+      "Taluka": "Waghai",
+      "Village": "Waghai"
+    },
+    "GeospatialData": {
+      "Latitude": 20.7424,
+      "Longitude": 73.4901
+    },
+    "Author": {
+      "Name": "Admin",
+      "Image": "/assets/authors/yash-patel.jpg"
+    },
+    "MetaData": {
+      "PublishDate": "2026-06-09T10:15:00Z",
+      "ReadTime": "4 min read",
+      "LikesCount": 312,
+      "SavesCount": 145
+    },
+    "MapDirectionUrl": "https://www.google.com/maps/dir/?api=1&destination=20.7424,73.4901",
+    "Excerpt": "Witness the untamed fury of the Kapri River as it plunges 30 meters down a rocky cliff. Gira Waterfall transforms into a thunderous spectacle during the monsoon, offering a breathtaking escape.",
+    "SEOMetaDescription": "Experience the majestic Gira Waterfall in Dang, Gujarat. Discover the best time to visit, photography tips, local tribal food, and travel routes in this guide.",
+    "MainContent": "<h2>The Untamed Beauty of Gira Waterfall</h2>\n\n<p>Hidden within the verdant embrace of the Sahyadri ranges lies <strong>Gira Waterfall</strong>, a thunderous spectacle that serves as the crown jewel of Dang tourism. Fed by the mighty Kapri River, this 30-meter plunge creates a mesmerizing veil of mist that catches the sunlight beautifully.</p>\n\n<h3>When to Witness the Roar</h3>\n\n<p>To experience Gira in its full, majestic fury, timing is everything. While the waterfall is accessible year-round, it truly comes alive during the <strong>Monsoon Season (July to October)</strong>.</p>",
+    "NearbyPlaces": [
+      {
+        "Name": "Koshmal Waterfall",
+        "Slug": "koshmal-waterfall-dang-hidden-gem",
+        "Category": "Nature & Attractions",
+        "DistanceKm": 24.0,
+        "Latitude": 20.8912,
+        "Longitude": 73.6145
+      },
+      {
+        "Name": "Saputara Hill Station",
+        "Slug": "saputara-hill-station-guide",
+        "Category": "Travel",
+        "DistanceKm": 52.5,
+        "Latitude": 20.7587,
+        "Longitude": 73.7486
+      }
+    ]
+  },
+  {
+    "Title": "Shabari Dham: Tracing the Ramayana Trail in the Forests of Dang",
+    "Slug": "shabari-dham-history-dang",
+    "Categories": [
+      "Historical Places",
+      "Travel",
+      "Attractions"
+    ],
+    "Tags": [
+      "Spiritual",
+      "Ramayana Trail",
+      "Religious Tourism",
+      "History of India"
+    ],
+    "LocationHierarchy": {
+      "State": "Gujarat",
+      "District": "Dang",
+      "Taluka": "Subir",
+      "Village": "Chamfadiya"
+    },
+    "GeospatialData": {
+      "Latitude": 20.9161,
+      "Longitude": 73.7431
+    },
+    "Author": {
+      "Name": "Admin",
+      "Image": "/assets/authors/yash-patel.jpg"
+    },
+    "MetaData": {
+      "PublishDate": "2026-06-09T10:30:00Z",
+      "ReadTime": "5 min read",
+      "LikesCount": 189,
+      "SavesCount": 88
+    },
+    "MapDirectionUrl": "https://www.google.com/maps/dir/?api=1&destination=20.9161,73.7431",
+    "Excerpt": "Uncover the profound mythological heritage of Shabari Dham, situated on a peaceful hillock inside Subir forest. This sacred spot marks where Lord Rama met his ultimate devotee, Shabari.",
+    "SEOMetaDescription": "Explore the spiritual and historical depth of Shabari Dham temple in Dang, Gujarat. Learn about its link to Ramayana, architecture, and nearby Pampa Sarovar.",
+    "MainContent": "<h2>The Spiritual Landmark of Dang: Shabari Dham</h2>\n\n<p>Set atop a serene hillock surrounded by the dense wild canopies of Subir forest, <strong>Shabari Dham</strong> is a highly revered site that beautifully connects Gujarat to the ancient epic Ramayana. It is historically believed to be the exact ground where Lord Rama, his brother Lakshmana, met the tribal ascetic Shabari while searching for Sita.</p>\n\n<h3>The Mythology Carved in Stone</h3>\n\n<p>Inside the beautifully constructed stone temple, visitors can view three clean stones where it is believed Lord Rama, Lakshmana, and Mata Shabari sat. The surrounding peaceful silence makes it a highly sought-after destination for spiritual travelers.</p>",
+    "NearbyPlaces": [
+      {
+        "Name": "Anjni Cave",
+        "Slug": "anjni-cave-hanuman-birthplace-dang",
+        "Category": "Historical Places",
+        "DistanceKm": 8.5,
+        "Latitude": 20.8523,
+        "Longitude": 73.7124
+      },
+      {
+        "Name": "Saputara Hill Station",
+        "Slug": "saputara-hill-station-guide",
+        "Category": "Travel",
+        "DistanceKm": 34.8,
+        "Latitude": 20.7587,
+        "Longitude": 73.7486
+      }
+    ]
+  },
+  {
+    "Title": "Anjni Cave: Exploring the Mythological Birthplace of Lord Hanuman",
+    "Slug": "anjni-cave-hanuman-birthplace-dang",
+    "Categories": [
+      "Historical Places",
+      "Travel",
+      "Attractions"
+    ],
+    "Tags": [
+      "Caves",
+      "Spiritual",
+      "Mythology",
+      "Trekking",
+      "History of India"
+    ],
+    "LocationHierarchy": {
+      "State": "Gujarat",
+      "District": "Dang",
+      "Taluka": "Ahva",
+      "Village": "Anjankund"
+    },
+    "GeospatialData": {
+      "Latitude": 20.8523,
+      "Longitude": 73.7124
+    },
+    "Author": {
+      "Name": "Admin",
+      "Image": "/assets/authors/yash-patel.jpg"
+    },
+    "MetaData": {
+      "PublishDate": "2026-06-09T10:45:00Z",
+      "ReadTime": "4 min read",
+      "LikesCount": 156,
+      "SavesCount": 73
+    },
+    "MapDirectionUrl": "https://www.google.com/maps/dir/?api=1&destination=20.8523,73.7124",
+    "Excerpt": "Deep dive into the mystical realms of Anjni Cave in Anjankund village. Revered as the historic birthplace of Lord Hanuman, this rugged cave offers a thrilling mixture of spirituality and trek adventure.",
+    "SEOMetaDescription": "Discover Anjni Cave (Anjankund) in Dang district. Explore its historical significance as Hanuman's birthplace, geographic details, and trekking info.",
+    "MainContent": "<h2>The Mystique of Anjni Cave and Anjankund</h2>\n\n<p>Tucked safely away inside the tribal folds of Ahva taluka, the <strong>Anjni Cave</strong> (situated in Anjankund village) holds a distinct position in India's spiritual landscape. According to localized beliefs and deep-seated rural geography, this cave on the hill was where Mata Anjani performed severe penance, leading to the birth of the warrior god, Lord Hanuman.</p>\n\n<h3>Trekking Through History</h3>\n\n<p>Reaching the cave requires a short but invigorating climb through rough terrains and stone-carved steps. The cave opening leads into a cool, naturally insulated chamber where a small, beautifully maintained shrine of Lord Hanuman and Mata Anjani sits in deep meditative silence.</p>",
+    "NearbyPlaces": [
+      {
+        "Name": "Shabari Dham",
+        "Slug": "shabari-dham-history-dang",
+        "Category": "Historical Places",
+        "DistanceKm": 8.5,
+        "Latitude": 20.9161,
+        "Longitude": 73.7431
+      },
+      {
+        "Name": "Ahva HQ",
+        "Slug": "ahva-dang-tribal-culture-history",
+        "Category": "Events",
+        "DistanceKm": 11.2,
+        "Latitude": 20.7601,
+        "Longitude": 73.6874
+      }
+    ]
+  },
+  {
+    "Title": "Koshmal Waterfall: The Hidden Offbeat Cascade of Northern Dang",
+    "Slug": "koshmal-waterfall-dang-hidden-gem",
+    "Categories": [
+      "Travel",
+      "Nature & Attractions",
+      "Monsoon Destinations"
+    ],
+    "Tags": [
+      "Waterfall",
+      "Hidden Gem",
+      "Offbeat Travel",
+      "Photography",
+      "Trekking"
+    ],
+    "LocationHierarchy": {
+      "State": "Gujarat",
+      "District": "Dang",
+      "Taluka": "Ahva",
+      "Village": "Koshmal"
+    },
+    "GeospatialData": {
+      "Latitude": 20.8912,
+      "Longitude": 73.6145
+    },
+    "Author": {
+      "Name": "Admin",
+      "Image": "/assets/authors/yash-patel.jpg"
+    },
+    "MetaData": {
+      "PublishDate": "2026-06-09T11:00:00Z",
+      "ReadTime": "5 min read",
+      "LikesCount": 213,
+      "SavesCount": 129
+    },
+    "MapDirectionUrl": "https://www.google.com/maps/dir/?api=1&destination=20.8912,73.6145",
+    "Excerpt": "Escape the commercial crowds and explore Koshmal Waterfall, a multi-tiered hidden wonder nestled deep inside the tranquil valley jungles of the northern Dang district.",
+    "SEOMetaDescription": "A complete guide to exploring Koshmal Waterfall in Dang, Gujarat. Discover route details, trekking path safety, and pristine photography locations.",
+    "MainContent": "<h2>Discovering Koshmal Waterfall: An Untouched Sanctuary</h2>\n\n<p>While Gira Waterfall gathers massive crowds, the pristine <strong>Koshmal Waterfall</strong> remains a tightly kept secret among hardcore trekkers and explorer circles. Located near Koshmal village, this multi-tiered natural cascade drops down rugged rock faces, collecting into clean, clear pools of mountain water perfect for mindful relaxation.</p>\n\n<h3>The Offbeat Trek Experience</h3>\n\n<p>The trail leading down to Koshmal Waterfall passes through zero commercialization. Hikers cross small forest rivers and dense bamboo patches before reaching the base of the tiers, creating an immersive eco-tourism thrill unmatched anywhere else in South Gujarat.</p>",
+    "NearbyPlaces": [
+      {
+        "Name": "Gira Waterfall",
+        "Slug": "gira-waterfall-dang-gujarat",
+        "Category": "Nature & Attractions",
+        "DistanceKm": 24.0,
+        "Latitude": 20.7424,
+        "Longitude": 73.4901
+      },
+      {
+        "Name": "Anjni Cave",
+        "Slug": "anjni-cave-hanuman-birthplace-dang",
+        "Category": "Historical Places",
+        "DistanceKm": 11.5,
+        "Latitude": 20.8523,
+        "Longitude": 73.7124
+      }
+    ]
+  }
+]

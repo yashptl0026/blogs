@@ -1,0 +1,114 @@
+[
+  {
+    "id": "422ad814-be74-4bbe-9ae9-7237c256192f",
+    "nameEn": "Monuments",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "monuments",
+    "isTravel": 1
+  },
+  {
+    "id": "449659c9-a733-4041-8ed6-78bacbc8f8ef",
+    "nameEn": "Summer Destinations",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "summer-destinations",
+    "isTravel": 0
+  },
+  {
+    "id": "4bdd406e-62b6-4682-8e25-b29b6be28802",
+    "nameEn": "Heritage",
+    "nameHi": "विरासत",
+    "nameGu": "વારસો",
+    "slug": "heritage",
+    "isTravel": 1
+  },
+  {
+    "id": "4fe0506a-fb82-4c45-a7d7-9e7b9ea97b99",
+    "nameEn": "Monsoon Destinations",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "monsoon-destinations",
+    "isTravel": 0
+  },
+  {
+    "id": "5f3f695a-444f-4525-bda0-b04a43ceb5e3",
+    "nameEn": "Spiritual Destinations",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "spiritual-destinations",
+    "isTravel": 1
+  },
+  {
+    "id": "8db3ba6d-29f9-4b43-9abf-02de0f9be2e5",
+    "nameEn": "Winter Destinations",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "winter-destinations",
+    "isTravel": 0
+  },
+  {
+    "id": "994829cc-6062-467d-b20e-1cb87e1ca141",
+    "nameEn": "Nature & Attractions",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "nature-attractions",
+    "isTravel": 0
+  },
+  {
+    "id": "c1",
+    "nameEn": "Travel",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "travel",
+    "isTravel": 1
+  },
+  {
+    "id": "c2",
+    "nameEn": "Design",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "design",
+    "isTravel": 0
+  },
+  {
+    "id": "c3",
+    "nameEn": "Architecture",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "architecture",
+    "isTravel": 0
+  },
+  {
+    "id": "c4",
+    "nameEn": "Lifestyle",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "lifestyle",
+    "isTravel": 0
+  },
+  {
+    "id": "d0cd5cba-34c4-4b24-a9a8-24ca9401cf26",
+    "nameEn": "cooking",
+    "nameHi": "खाना बनाना",
+    "nameGu": "રસોઈ",
+    "slug": "cooking",
+    "isTravel": 0
+  },
+  {
+    "id": "f4758458-f874-472a-ba5e-cbe10780395c",
+    "nameEn": "Historical Places",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "historical-places",
+    "isTravel": 0
+  },
+  {
+    "id": "fa76cc67-59a0-4b19-b288-4e25e702d647",
+    "nameEn": "Attractions",
+    "nameHi": null,
+    "nameGu": null,
+    "slug": "attractions",
+    "isTravel": 0
+  }
+]
